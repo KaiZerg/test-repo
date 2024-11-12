@@ -4,4 +4,4 @@ out/
 *.iml
 
 shelf/
-/workspace.xml
+/.idea/workspace.xml
